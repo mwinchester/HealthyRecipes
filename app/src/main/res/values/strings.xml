@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Healthy Recipes</string>
+    <string name="txtTitle">Potato Salad Recipe</string>
+    <string name="description">Weird Al: Who\'s Fat?</string>
+    <string name="btnRecipe">View Recipe</string>
+    <string name="txtIngredients">Ingredients</string>
+    <string name="txtItem1">Potatoes</string>
+    <string name="txtItem2">Sour Cream and Mayo (half each)</string>
+    <string name="txtItem3">Cooked, crumbled bacon</string>
+    <string name="txtItem4">Green Goddess Seasoning</string>
+    <string name="txtDirections">Directions</string>
+    <string name="txtMix">Cook and coarsely chop potatoes, stir in rest of ingredients and chill.</string>
+</resources>
